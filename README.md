@@ -43,15 +43,6 @@ This project is a **home automation system** designed to be energy-efficient, co
 - Controlling lights, fans, TV, motors, and ACs.
 - Assisting mobility-impaired persons and elderly people.
 
----
-
-## 📷 Circuit Diagram
-![Circuit Diagram](docs/circuit.png)
-
----
-
-## 📽 Block Diagram
-![Block Diagram](docs/block.png)
 
 ---
 
